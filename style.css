@@ -1,0 +1,22 @@
+body {
+    font-family: arial;
+
+}
+
+#quote {
+    font-family: 'Andada', serif;
+
+}
+
+#quoteButton {
+    padding-top: 5px;
+}
+
+#buttonActual {
+    background-color: #1b95e0;
+    color: #ffffff;
+}
+
+#buttonActual:hover {
+    background-color: #0c7abf;
+}
